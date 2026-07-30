@@ -40,7 +40,7 @@ public class StudentProcessor {
 
 			}
 			else if(option==4) {
-				System.out.println("Thank You! Result Processing Completed.");
+				System.out.println("Thank You! Result Processing Completed...");
 				running=false;
 
 			}
